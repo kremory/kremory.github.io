@@ -15,13 +15,13 @@ h1{
 .navbar a{
     text-align: left;
     display: block;
-    color: #7EA3CC;
+    color: #B9E28C;
     text-align: center;
     padding: "14px 16px";
     text-decoration: none;
 }
 .navbar a:hover{
-    background-color: #7EA3CC;
+    background-color: #774C60;
     color: #000004;
 }
 .container div{
@@ -29,21 +29,6 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px;
-}
-.card{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 50%;
-}
-.card-title{
-    text-align:center;
-    font-size: 2em;
-    color:black;
-    font-weight: 400;
-}
-.card-content{
-    padding:"2px 16px";
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 .footer element{
 background-color: black;
@@ -65,4 +50,7 @@ width:100%;
 .footer a:hover{
     text-decoration: none;
 
+}
+.body{
+color:#7EA3CC;
 }
