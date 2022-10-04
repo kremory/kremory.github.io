@@ -7,6 +7,9 @@ header{
 h1{
     font-weight: 400;
 }
+footer{
+background-color:black;
+}
 .navbar{
     overflow:hidden;
     border-bottom: 15px;
