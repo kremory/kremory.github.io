@@ -55,3 +55,9 @@ body{
     background-color: #B75D69;
     color: #7EA3CC;
 }
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
